@@ -54,7 +54,7 @@
 | Система оповещений     | Система обмена сообщениями между компонентами, ответственная за уведомления участников и сотрудников |
 
 ### Алгоритм взаимодействия структур
-![image](https://github.com/user-attachments/assets/b929fcad-ad6a-4650-aa9b-c1bb5929c9e9)
+![diagram](https://github.com/user-attachments/assets/c7df7c36-3cf1-4413-a49c-3bac2e20f3bb)
 
 
 ### Реализация инвентаря
