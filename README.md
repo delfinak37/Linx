@@ -174,7 +174,6 @@
 
 ## Источники данных на котором основывался данный отчет:
 #### [OWASP.ORG](https://owasp.org/Top10/)
-#### [cwe.mitre.org](https://cwe.mitre.org/)
 #### [zaproxy.org](https://www.zaproxy.org/getting-started/)
 #### [consultant.ru](https://www.consultant.ru/document/cons_doc_LAW_61801/)
 
